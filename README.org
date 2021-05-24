@@ -1,6 +1,25 @@
-* bdda-stories
-  The purpose of this repository is to collect user stories that will inform the development of the BDDA.
+User stories are a commonly used tool for expressing features that users would like to see in a product.  They are a well-established part of Agile methodology, which emphasizes iterative, collaborative exploration of product requirements; they guide the entire process, from planning through development.
+
+User stories typically follow a short, declarative template that expresses a goal or need from a particular user’s point of view, in the user’s own words:
+
+As a <type of user>, I want <some goal>, so that <some purpose>.
+
+An example might be:
+
+#+begin_quote
+As an historian of the Plague, I want to be able to see the sources of data that are displayed in the site, so that I can cite them properly.
+#+end_quote
+
+The semi-formal nature of the statement accomplishes several things:
+
+- It contextualizes the feature (this is something that a Plague historian wants; it may not be what other users want or need)
+- It motivates the feature request (there is a reason this feature is needed)
+- It pinpoints the feature request in simple language (so that it can acted upon)
+
+We will spend the first few weeks building a list of user stories together.  This document will serve as a sort of drafting board: each stakeholder will write some user statements, and then we will meet as a group to refine, organize, and elaborate them.
+
+To add a new story, click on /Issues/ in the menu bar at the top of this page, then click on the /New issue/ button to the right of the screen.
 
   - Check the current set of user stories before creating a new one.  If a similar story has already been written, add comments to it rather than creating a new one.
+
   - Use reasonably short titles, but repeat any information in the title in the initial comment (the title may be changed later).
-  - Feel free to use the tradition user story template ("As a role, I want goal/desire so that benefit") or a use case style as you see fit. Include links to any useful examples or supporting material.
